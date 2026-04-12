@@ -4,7 +4,7 @@
 
 ## 🔗 Links
 
-- **Frontend**: https://fit-track-neon-two.vercel.app/login
+- **Frontend**: https://fit-track-neon-two.vercel.app
 - **API**: https://fittrack-api-9g81.onrender.com/docs
 
 ---
